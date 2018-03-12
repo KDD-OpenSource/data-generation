@@ -1,8 +1,8 @@
 # data-generation
 
 The repository provides a synthetic multivariate time series data generator. 
-The implementation is an extention of the cylinder-bell-funnel [1] time series data generator. 
-The scipt enables synthetic data generation of different length, dimensions and samples. 
+The implementation is an extension of the cylinder-bell-funnel [1] time series data generator. 
+The script enables synthetic data generation of different length, dimensions and samples. 
 
 Scaleability_length.ipynb --> Generate time series of different length and fixed number of samples/dimensions. 
 Scaleability_number.ipynb --> Generate time series of different number of samples and fixed number of dimensions/length. 
